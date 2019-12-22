@@ -14,7 +14,7 @@ colorscheme silenthill
 
 ```
 
-To make colorscheme work as intended, use `set termguicolors` in your vimrc
+To make color scheme work as intended, use `set termguicolors` in your vimrc
 
 
 
