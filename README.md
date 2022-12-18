@@ -9,7 +9,7 @@ Dark color scheme for vim
 
 With `vim-plug`
 ```
-Plug 'janituo/silenthill.vim'
+Plug 'evilwaveforms/silenthill.vim'
 colorscheme silenthill
 
 ```
